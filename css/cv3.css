@@ -1,0 +1,31 @@
+#header {
+
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background: black;
+    color: azure;
+}
+#image {
+
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+#name {
+    letter-spacing: 0.5em;
+    font-weight: bold;
+}
+#info{
+    letter-spacing: 0.2em;
+    margin-top: 50px;
+}
+#underline{
+
+    width: 373px;
+    height: 7px;
+    background: #CECED0;
+    margin-top: 10px;
+    
+}
